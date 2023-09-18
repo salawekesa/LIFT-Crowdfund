@@ -164,6 +164,62 @@
     },
     "contactEmail": "contact@foodtechinnovators.com"
 }
+,
+    {
+    "startupName": "HealthTech Solutions",
+    "logo": "./assets/logos/healthtech.svg",
+    "campaignTitle": "Transforming Healthcare with HealthTech Solutions",
+    "campaignSubtitle": "Join Us in Improving Lives through Innovative Health Tech",
+    "campaignImage": "./assets/campaign_images/healthtech_image.jpg",
+    "fundingGoal": "$250,000",
+    "fundingDuration": "45 days to go",
+    "location": "Boston, MA",
+    "website": "https://www.healthtechsolutions.com",
+    "description": "HealthTech Solutions is dedicated to revolutionizing the healthcare industry by developing innovative technology solutions that enhance patient care and healthcare delivery.",
+    "campaignStory": {
+        "content": "We believe that technology can play a crucial role in making healthcare more accessible and efficient. HealthTech Solutions was founded by a team of healthcare professionals, engineers, and data scientists who are passionate about improving the lives of patients.",
+        "whySupportUs": "By supporting HealthTech Solutions, you're contributing to the advancement of healthcare technology and helping us make healthcare more patient-centered. Your contributions will directly fund the development of cutting-edge health tech solutions.",
+        "progress": "Our team has already made significant strides in creating telemedicine platforms, AI-driven diagnostics, and patient management systems. With your support, we can continue to innovate and expand our reach to benefit more patients and healthcare providers.",
+        "challenges": "The healthcare industry is complex and highly regulated, but we are committed to overcoming these challenges. Your backing will help us navigate healthcare compliance and expand our solutions to new markets.",
+        "team": "Our team includes experienced healthcare professionals, software engineers, and data analysts who are dedicated to improving healthcare through technology. We have a track record of developing solutions that make a difference.",
+        "useOfFunds": "The funds raised will be used for research and development, software infrastructure, regulatory compliance, and expanding our solutions to reach more healthcare providers and patients.",
+        "rewards": [
+            {
+                "title": "HealthTech Access",
+                "description": "Get early access to our latest health tech solutions and experience the future of healthcare firsthand.",
+                "pledgeAmount": "$75",
+                "limitedQuantity": true
+            },
+            {
+                "title": "HealthTech Swag Pack",
+                "description": "Receive a pack of HealthTech Solutions branded merchandise, including wearables and accessories.",
+                "pledgeAmount": "$40"
+            },
+            {
+                "title": "VIP Healthcare Innovation Seminar",
+                "description": "Join us for an exclusive seminar on the future of healthcare technology and network with industry experts.",
+                "pledgeAmount": "$250",
+                "limitedQuantity": true
+            }
+        ],
+        "risks": "The healthcare industry presents unique challenges, including regulatory hurdles and data privacy concerns. We will keep our backers informed about our progress and any challenges we encounter.",
+        "faq": [
+            {
+                "question": "When will I receive my reward?",
+                "answer": "Reward delivery dates may vary depending on the pledge level and the project's development timeline. We will provide regular updates to keep you informed."
+            },
+            {
+                "question": "What happens if the funding goal isn't met?",
+                "answer": "If we don't reach our funding goal, all backers will be refunded, and the project's timeline for launching new solutions may be adjusted."
+            },
+            {
+                "question": "Can I change my pledge?",
+                "answer": "Yes, you can adjust your pledge amount or choose a different reward at any time before the campaign ends."
+            }
+        ]
+    },
+    "contactEmail": "contact@healthtechsolutions.com"
+}
 
 
   ]
