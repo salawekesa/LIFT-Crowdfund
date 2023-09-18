@@ -53,5 +53,117 @@
         ]
     },
     "contactEmail": "contact@techsprint.com"
+},
+    {
+    "startupName": "GreenTech Innovations",
+    "logo": "./assets/logos/greentech.svg",
+    "campaignTitle": "GreenTech Innovations: Pioneering Sustainable Solutions",
+    "campaignSubtitle": "Join Us in Building a Greener Future",
+    "campaignImage": "./assets/campaign_images/greentech_image.jpg",
+    "fundingGoal": "$150,000",
+    "fundingDuration": "45 days to go",
+    "location": "Seattle, WA",
+    "website": "https://www.greentechinnovations.com",
+    "description": "GreenTech Innovations is a startup dedicated to revolutionizing the environmental technology sector. Our mission is to create innovative and sustainable solutions to address pressing global environmental challenges.",
+    "campaignStory": {
+        "content": "We believe that the future of our planet depends on our ability to develop and adopt sustainable technologies. GreenTech Innovations was born out of a shared commitment to making a positive impact on the environment.",
+        "whySupportUs": "By supporting GreenTech Innovations, you're joining a movement to combat climate change and promote environmental sustainability. Your contributions will directly fund the development of eco-friendly products and solutions that will benefit us all.",
+        "progress": "Our team has already made significant strides in researching and prototyping sustainable technologies. With your support, we can accelerate our efforts and bring these solutions to market faster. Your contributions will fund product development, testing, and scalability.",
+        "challenges": "Building environmentally-friendly technologies comes with its challenges, but we are determined to overcome them. Your backing will help us navigate obstacles and stay committed to our goal of creating a greener future.",
+        "team": "Our team is comprised of passionate environmentalists, engineers, and scientists who are dedicated to making a positive impact. We have a track record of developing innovative green solutions and are excited about the potential of our current projects.",
+        "useOfFunds": "The funds raised will be used for further research and development, manufacturing, marketing, and scaling up production. We are committed to ensuring that our products meet the highest environmental standards.",
+        "rewards": [
+            {
+                "title": "Early Green Supporter",
+                "description": "Be among the first to receive our eco-friendly product at an exclusive early bird price.",
+                "pledgeAmount": "$75",
+                "limitedQuantity": true
+            },
+            {
+                "title": "GreenTech Swag Bundle",
+                "description": "Receive a bundle of GreenTech-branded eco-friendly merchandise as a token of our appreciation.",
+                "pledgeAmount": "$40"
+            },
+            {
+                "title": "Eco-Tech Workshop",
+                "description": "Join us for an exclusive workshop where you'll learn about sustainable technology and see our innovations in action.",
+                "pledgeAmount": "$250",
+                "limitedQuantity": true
+            }
+        ],
+        "risks": "Developing sustainable technologies involves inherent risks, such as technical challenges and regulatory hurdles. We are committed to transparency and will keep our backers informed about any obstacles we encounter.",
+        "faq": [
+            {
+                "question": "When will I receive my reward?",
+                "answer": "Reward delivery dates may vary depending on the pledge level and the project's development timeline. We will provide regular updates to keep you informed."
+            },
+            {
+                "question": "What happens if the funding goal isn't met?",
+                "answer": "If we don't reach our funding goal, all backers will be refunded, and the project may be reevaluated for future development."
+            },
+            {
+                "question": "Can I change my pledge?",
+                "answer": "Yes, you can adjust your pledge amount or choose a different reward at any time before the campaign ends."
+            }
+        ]
+    },
+    "contactEmail": "contact@greentechinnovations.com"
+},
+    {
+    "startupName": "FoodTech Innovators",
+    "logo": "./assets/logos/foodtech.svg",
+    "campaignTitle": "Reimagine Food with FoodTech Innovators",
+    "campaignSubtitle": "Join Us in Creating a Sustainable and Delicious Future",
+    "campaignImage": "./assets/campaign_images/foodtech_image.jpg",
+    "fundingGoal": "$200,000",
+    "fundingDuration": "60 days to go",
+    "location": "New York, NY",
+    "website": "https://www.foodtechinnovators.com",
+    "description": "FoodTech Innovators is on a mission to transform the food industry by developing sustainable and innovative food products that are good for people and the planet.",
+    "campaignStory": {
+        "content": "We believe that food should be both delicious and environmentally responsible. FoodTech Innovators was founded by a group of chefs, nutritionists, and food scientists who are passionate about creating a positive impact on our food system.",
+        "whySupportUs": "By supporting FoodTech Innovators, you're contributing to a greener and healthier food future. Your contributions will directly fund the development of sustainable food products that prioritize taste, nutrition, and sustainability.",
+        "progress": "Our team has already made significant strides in developing plant-based and lab-grown food alternatives. With your support, we can bring these products to market faster, reduce food waste, and promote sustainable farming practices.",
+        "challenges": "Creating sustainable and delicious food products comes with challenges, but we are committed to overcoming them. Your backing will help us navigate regulatory hurdles and scale up production.",
+        "team": "Our team consists of passionate food experts, scientists, and culinary artists who are dedicated to revolutionizing the food industry. We have a history of developing innovative and delicious food solutions.",
+        "useOfFunds": "The funds raised will be used for research and development, scaling up production, marketing, and ensuring the highest quality and sustainability standards in our food products.",
+        "rewards": [
+            {
+                "title": "Foodie's Delight Package",
+                "description": "Get a bundle of our innovative food products at an exclusive early bird price.",
+                "pledgeAmount": "$50",
+                "limitedQuantity": true
+            },
+            {
+                "title": "FoodTech Swag Set",
+                "description": "Receive a set of FoodTech Innovators branded merchandise, including aprons, utensils, and more.",
+                "pledgeAmount": "$30"
+            },
+            {
+                "title": "Food Innovation Workshop",
+                "description": "Join us for a hands-on workshop where you'll learn about sustainable food innovation and taste our latest creations.",
+                "pledgeAmount": "$200",
+                "limitedQuantity": true
+            }
+        ],
+        "risks": "Developing sustainable food products involves challenges such as regulatory approval, consumer acceptance, and scaling up production. We will keep our backers informed about any obstacles we encounter.",
+        "faq": [
+            {
+                "question": "When will I receive my reward?",
+                "answer": "Reward delivery dates may vary depending on the pledge level and the project's development timeline. We will provide regular updates to keep you informed."
+            },
+            {
+                "question": "What happens if the funding goal isn't met?",
+                "answer": "If we don't reach our funding goal, all backers will be refunded, and the project may be reevaluated for future development."
+            },
+            {
+                "question": "Can I change my pledge?",
+                "answer": "Yes, you can adjust your pledge amount or choose a different reward at any time before the campaign ends."
+            }
+        ]
+    },
+    "contactEmail": "contact@foodtechinnovators.com"
 }
+
+
   ]
